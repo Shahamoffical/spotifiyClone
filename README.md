@@ -1,1 +1,1 @@
-# spotifiyClone
+# SpotifiyClone
